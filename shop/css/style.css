@@ -10,10 +10,24 @@
 }
 
 .header1{
-    background-color: rgb(92, 175, 92);
+    background-color: #16ac66;
     color: white;
 }
 
 .im2{
-    background-color: rgb(92, 175, 92);
+    mix-blend-mode: darken;
+    margin-top: -25px;
+    margin-left: -583px;
+}
+
+.text1{
+    float: right;
+}
+
+.im1{
+    background-image: url(../img/dots-green\ \(1\).svg);
+    background-position: top;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: -220px;
 }
